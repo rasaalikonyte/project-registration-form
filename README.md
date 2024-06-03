@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # project-registration-form
 
 Welcome to the Project Registration Form repository. This project is focused on automation testing using Cypress.
@@ -34,8 +32,6 @@ To run the development server and execute tests, use the following commands:
 ## Application
 
 The application can be accessed at: [http://localhost:5173](http://localhost:5173)
-
-=======
 
 # React + Vite
 
