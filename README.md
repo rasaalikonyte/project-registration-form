@@ -1,5 +1,5 @@
 # project-registration-form
-Welcome to the Project Registratio Form repository. This project is focused on automation testing using Cypress.
+Welcome to the Project Registration Form repository. This project is focused on automation testing using Cypress.
 
 ## Table of Contents
 
