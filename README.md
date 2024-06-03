@@ -30,4 +30,5 @@ To run the development server and execute tests, use the following commands:
 
 ## Application
 
-The application can be accessed at: [http://localhost:3000/movies](http://localhost:3000/movies)
+The application can be accessed at: [http://localhost:5173](http://localhost:5173)
+
